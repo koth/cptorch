@@ -1,0 +1,4 @@
+{
+   "tokenizer_vocab": "cptorch/bert/data/vocab.txt",
+   "tokenizer_class": "cptorch::BertTokenizer"
+}
